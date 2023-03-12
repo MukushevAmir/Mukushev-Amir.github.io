@@ -1,0 +1,26 @@
+h1{
+  color: #000000
+}
+p{
+  font-size: 20px
+}
+b{
+  color: indigo; 
+}
+
+
+.tab{
+  margin-left: 25px
+}
+
+.tab2{
+  margin-left: 45px
+}
+a:focus {
+	color: orange;
+	background-color: lightblue;
+}
+
+a{
+	color: darkblue; 
+}
